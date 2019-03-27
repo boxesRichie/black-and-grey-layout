@@ -1,0 +1,33 @@
+.padding{
+    padding:10px 0px 10px 0px;
+}
+.black-back{
+    background-color:black;
+    height:auto;
+}
+
+.black{
+    background-color:black;
+}
+
+.grey{
+    background-color:grey;
+}
+
+.icon{
+    height:25px;
+}
+
+.hero{
+    height:200px;
+}
+
+.nav{
+    height: 30px;
+}
+.name{
+    height:20px;
+}
+.info{
+    height:200px;
+}
